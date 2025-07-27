@@ -25,7 +25,7 @@
 - [Price Chopper](https://maps.app.goo.gl/JtWY9fVEMyZTGg2K6): Close, but like a basic Vons
 - [\* Shaw's](https://maps.app.goo.gl/FsKGz4L68VWoL2qs5): Has most everything, but a little further
 
-## Restaurants and treats
+## Restaurants, treats, shopping
 
 - [\* Frazer's place](https://maps.app.goo.gl/Z8eKTuZAgYWo1gNX7) for ice cream, salads, burgers, and more
 - [Yummy yummy chinese restaurant](https://maps.app.goo.gl/HgD1JmAJEefJ4acBA) for take out or sit down
@@ -36,6 +36,10 @@
 - [The Station](https://www.windsorstationvt.com/): Nice dining, recommend reservations
 - [\* Wades Place](https://maps.app.goo.gl/mf5N4zTe2ivan8Qy8): For ice cream and fudge sundays
 - [\* Skinny Pancake](https://skinnypancake.com/) has a nice brunch/lunch menu and is near VINS and Queechee Gorge
+- [King Arthur Flour](https://www.kingarthurbaking.com/visit/norwich-vt): Lunch with nice pastries and menu
+- [Ben & Jerry's Factory](https://www.benjerry.com/about-us/factory-tours): Far, but fun to see. Tickets can be purchased ahead of time.
+- [Simon Pearce](https://simonpearce.com/pages/our-stores-windsor-vt?srsltid=AfmBOopN9FAV6qyB6epaX2RP_iFulrf7fx9-3WxzjPEqlRazTO9uj9lr): Fancy decor.
+- [Apple orchand & Cider Mill - Wellwoods](https://maps.app.goo.gl/zT2otX4MDnDy2yWG8): Best in fall
 
 ## Close by
 
@@ -62,22 +66,14 @@
 - [Springfield: Resevoir](https://www.recreation.gov/gateways/219): Nice views and trails to walk
 - [Brownsville: Ascutney Outdoors](https://www.ascutneyoutdoors.org/): Resort with nice trails and sometime live music
 
-## In the fall
-
-- [Apple orchand & Cider Mill Wellwoods Orchard](https://maps.app.goo.gl/zT2otX4MDnDy2yWG8)
-
-## Shopping
-
-- [Simon Pearce](https://simonpearce.com/pages/our-stores-windsor-vt?srsltid=AfmBOopN9FAV6qyB6epaX2RP_iFulrf7fx9-3WxzjPEqlRazTO9uj9lr): Fancy decor.
-
 ## House Notes
 
-- refrigerator - is old - fragile - do not overload. Bin does not open all the way. make sure door is closed - it does not open all the way. leave as you found it and try not to leave parishable foods
-- Cup Board in dining room: with food, paper towel
+- Refrigerator - is old - fragile - try not to overload. Veggie bin does not open all the way. Make sure door is closed - it does not close by itself. leave as you found it and try not to leave parishable foods
+- There is a Cupboard in dining room: with food, paper towel
 - Back Heavy Door: it locks (there is a switch to turn off lock). Can can lock on you - so leave it open. Front door key to re-enter if closed.
 - stove electic - boils over easily & makes a mess so needs "watching" - cleaner is in cabinet to left of it
 - should be lawn chairs for out back + Table in Garage - leave Kayaks in garage (too hard to hang them up with car in garage
-- shut whatever windows you apen
+- shut whatever windows you open
 - portable air conditioner is in upstairs main bedroom
 - leave whatever Bed you sleep in with clean sheets - big bedroom clean sheets are in closet overhead, small bedroom in wicker chest
 - Don't need to lock doors if you go to store or on walk, only when you leave.
