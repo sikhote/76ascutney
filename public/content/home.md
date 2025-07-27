@@ -10,7 +10,7 @@
 
 - Wifi network: 76ascutney
 - Wifi password: 24ascutney (not 100% sure, may need to look at the sticky note to the right of the TV on the floor)
-- [Recycling](https://lebanonnh.gov/450/Solid-Waste-Recycling): About a 20min drive to drop off recycled foods, free
+- [Recycling](https://lebanonnh.gov/450/Solid-Waste-Recycling): About a 20min drive to drop off items, free
 - [Trash](https://maps.app.goo.gl/EjZuqisP79B7GTjs6): Wednesday evenings from 4:00 PM to 6:00 PM. Just north of Price Chopper. About $5 a bag. Mentioned [here](https://www.windsorvt.org/town-government).
 
 ## Links
