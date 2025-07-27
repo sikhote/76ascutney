@@ -1,0 +1,24 @@
+.main {
+  width: 100%;
+  max-width: 880px;
+  min-height: 100vh;
+  margin: 0 auto;
+  padding: var(--spacingPage) 0;
+
+  @media (max-width: 1500px) {
+    padding: var(--spacingPage) var(--spacingPage) var(--spacingPage) 255px;
+    max-width: 100%;
+    margin: 0;
+  }
+
+  @media (max-width: 900px) {
+    padding: calc(48px + var(--spacingMedium)) var(--spacingMedium)
+      var(--spacingMedium) var(--spacingMedium);
+  }
+
+  @media print {
+    max-width: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+}

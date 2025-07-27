@@ -1,0 +1,29 @@
+{
+  "name": "76ascutney",
+  "description": "Homepage for things to do at 76 Asuctney",
+  "author": "David Sinclair <david@sinclair.tech> (https://sinclair.tech)",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint && prettier --check .",
+    "fix": "next lint --fix && prettier --write ."
+  },
+  "dependencies": {
+    "@vercel/analytics": "^1",
+    "classnames": "^2",
+    "next": "^14",
+    "next-mdx-remote": "^4",
+    "prettier": "^2",
+    "react": "^18",
+    "react-dom": "^18",
+    "sass": "^1"
+  },
+  "devDependencies": {
+    "eslint": "^8",
+    "eslint-config-next": "^14",
+    "eslint-config-prettier": "^9"
+  }
+}
