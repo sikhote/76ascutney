@@ -16,7 +16,6 @@
 ## Links
 
 - [Town website](https://www.windsorvt.org)
-- [Other town website](https://www.townofwindsor.ca.gov)
 - [Community calendar](https://www.windsorvt.org/events-calendar)
 
 ## Grocery stores and markets
