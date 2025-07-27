@@ -20,7 +20,7 @@
 
 ## Grocery stores and markets
 
-- [\* Edgewater Farmstand](https://maps.app.goo.gl/tE4g4DbzxLLPRQoRA)
+- [\* Edgewater Farmstand](https://maps.app.goo.gl/tE4g4DbzxLLPRQoRA): Good little market, but pricey. Has some good pre-made salads and pastas in to-go containers. Near the recycling center if you are in the area.
 - [\* Brownsville Butcher](https://www.butcherandpantry.com/): Good soft serve ice cream, great pastries, small selection of good groceries & produce. High end meat. Sometimes they have live music (check website).
 - [Price Chopper](https://maps.app.goo.gl/JtWY9fVEMyZTGg2K6): Close, but like a basic Vons
 - [\* Shaw's](https://maps.app.goo.gl/FsKGz4L68VWoL2qs5): Has most everything, but a little further
@@ -78,3 +78,12 @@
 - leave whatever Bed you sleep in with clean sheets - big bedroom clean sheets are in closet overhead, small bedroom in wicker chest
 - Don't need to lock doors if you go to store or on walk, only when you leave.
 - Dishwasher: works, don't overload
+
+## Example itineraries
+
+- Breakfast at Skinny Pancake, see VINS, swim in pond, dinner at Harpoons
+- Breakfast at Brownsville Butcher, hike around Mt Ascutney, swim in pond, dinner at Skunk Hollow
+- Pick up snacks at Edgewater Farmstand (maybe the evening before), Kayak down the connecticut, walk around Paradise Park in the evening
+- Vist and hike down Queechee Gorge, swim in pond, dinner at Frazer's on the way back
+- Walk around Saint-Gaudens National Historical Park, swim at Twenty foot hole, dinner at Pizza chef, ice cream at Wade's place
+- Ben & Jerry's Factory tour, swim in pond
