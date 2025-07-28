@@ -50,7 +50,7 @@
 - [Rec center](https://www.recreationliveshere.com/167/Community-Recreation-Center): Pool and more
 - [Senior rec center](https://townofwindsor.perfectmind.com/23855/Clients/BookMe4BookingPages/Classes?calendarId=1e23ee93-ec9d-4405-a808-c47d5119890c&widgetId=15f6af07-39c5-473e-b053-96653f77a406&embed=False): Ping pong and more
 - [Gentle Yoga](https://maps.app.goo.gl/dtFxJdevdapEi7wf8): For every body in person Wed 5:30-6:30pm and Sat 9-10am. Old south church in Windsor. $15 drop or purchase 5 week session $65 for 2 classes per week..plus bonus yin class 1st Sunday. In-Person and zoom.. Info or to register lndchurchill44@gmail.com - Paypal.me/lchurchill739
-- [\* Kayak the conneticut river][https://www.greatriveroutfitters.com/]: Rent kayaks and float/paddle down the Connecticut river. They drive you and kayaks up stream and drop you off. Very pleasant and takes about 3 hours, so probably bring snacks. Requires reservations ahead of time. They offer tubes as well, but this is not recommended.
+- [\* Kayak the conneticut river](https://www.greatriveroutfitters.com/): Rent kayaks and float/paddle down the Connecticut river. They drive you and kayaks up stream and drop you off. Very pleasant and takes about 3 hours, so probably bring snacks. Requires reservations ahead of time. They offer tubes as well, but this is not recommended.
 - [Windsor Common](https://www.windsorvt.org/events-calendar): Live music on Wednesdays, but double check the calendar. Fairly sure [this](https://maps.app.goo.gl/hM5PCRiYZTYGsCaE8) is the location (outside field).
 - [\* Cornish-Windsor covered bridge](https://g.co/kgs/qD5qaa9): Cool old bridge that connects with New Hampshire over the Connecticut river
 
